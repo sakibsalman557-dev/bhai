@@ -1,0 +1,8 @@
+{
+  "name": "Copy of NeuroElevate - Ultra-Innovative Brain Productivity",
+  "description": "A cutting-edge neuro-adaptive platform combining IQ enhancement, cognitive tracking, and AI-powered productivity with a real-time AI Thinking Twin.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
